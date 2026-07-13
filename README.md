@@ -1,81 +1,89 @@
-<h1 align="center">¡Hola! 👋 Soy Guadalupe</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Estudiante | 🌎 Argentina | 🚀 Apasionada por el desarrollo web
-</h3>
+# 🌼 Guadalupe
 
----
+### `Frontend Developer` • `Student` • `Always Learning`
 
-## ✨ Sobre mí
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Frontend+Developer;Always+building+something+new." />
 
-- 🎓 Estudiante de programación
-- 💻 Me gusta desarrollar páginas web con HTML, CSS y JavaScript
-- 📚 Actualmente aprendiendo nuevas tecnologías
-- 🎯 Buscando mejorar mis habilidades día a día
-- ☕ Siempre abierta a nuevos proyectos
+</div>
 
 ---
 
-## 🚀 Tecnologías
+## 💛 About Me
+
+🌻 Student from Argentina
+
+💻 Frontend Web Developer
+
+📚 Currently learning JavaScript & React
+
+🚀 Building projects to improve every day
+
+✨ I enjoy creating clean and modern interfaces
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma"/>
+
 </p>
 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B&border_color=FFD43B"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&title_color=FFD43B&text_color=FFFFFF&border_color=FFD43B"/>
 
 </p>
 
 ---
 
-## 🔥 Racha de contribuciones
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=transparent&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&border=FFD43B"/>
+
 </p>
 
 ---
 
-## 🏆 Trofeos
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=flat&no-frame=true&title=Stars,Followers,Commits,Repositories&margin-w=15"/>
+
 </p>
 
 ---
 
-## 🌐 Contacto
+## 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:tuemail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blueviolet"/>
-</p>
+<div align="center">
 
-<p align="center">
-⭐ Gracias por visitar mi perfil ⭐
-</p>
+![](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=yellow)
+
+</div>
