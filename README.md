@@ -1,29 +1,40 @@
+<h2 align="center">💛 SYSTEM STATUS</h2>
+
 <div align="center">
 
-# 💛 Guadalupe
+<table>
+<tr>
+<td>
 
-```text
-╭──────────────────────────────────────────────╮
-│               SYSTEM STATUS                  │
-├──────────────────────────────────────────────┤
-│ 👤 User        Guadalupe                     │
-│ 💻 Role        Frontend Developer            │
-│ 📍 Location    Argentina                     │
-│ 🚀 Working On  Personal Projects             │
-│ 📚 Learning    React                         │
-│ ⚡ Status      Coding...                     │
-╰──────────────────────────────────────────────╯
+```console
+guad@github:~$ whoami
+Guadalupe
+
+guad@github:~$ role
+Frontend Developer
+
+guad@github:~$ location
+Argentina
+
+guad@github:~$ learning
+React
+
+guad@github:~$ status
+Coding...
 ```
 
-<br>
+</td>
+</tr>
+</table>
 
-### 🎧 NOW PLAYING
+### 🎧 Now Playing
 
 ```text
 ♪ Lo-fi Coding Beats
 
-──────────────●──────────────
-      2:35 / 4:18
+▶ ───────────●───────────
+
+2:35 / 4:18
 ```
 
 </div>
